@@ -1,4 +1,3 @@
-yield(array[i])
 def hello(array)
   i = 0
   colletion =[]
