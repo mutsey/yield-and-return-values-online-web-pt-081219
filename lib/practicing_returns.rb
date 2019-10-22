@@ -1,4 +1,4 @@
-require 'pry'
+yield(array[i])
 
 def hello(array)
   i = 0
